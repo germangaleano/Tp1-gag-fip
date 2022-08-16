@@ -10,3 +10,7 @@ let hp7 = "durante el avance mantener la distancia y los angulos correctos";
 let hp8 = "avanzar en zigzag asia adelante y atras para crear un cordon uniforme y prolijo ";
 
 console.log (hp1 , hp2, hp3, hp4, hp5, hp6, hp7, hp8)
+
+
+
+https://codesandbox.io/s/aprendiendo-a-soldar-tntx-65y0h6?file=/src/index.js:295-960
