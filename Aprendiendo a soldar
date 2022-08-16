@@ -1,0 +1,12 @@
+
+`;
+let hp1 = "Preparacion de piezas a soldar";
+let hp2 = "verificar espacio y que este limpio";
+let hp3 = "regular el amperaje de acuerdo al espesor de la lamina ";
+let hp4 = "arrastrar el electrodo por la superficie para evitar que se pegue";
+let hp5 = "colocar electrodo en posicion correcta a 60 grados respecto a la horizontal y 10grados  respecto a la vertical";
+let hp6 = "apoyar el electrodo y avanzaren linea a las piezas a unir";
+let hp7 = "durante el avance mantener la distancia y los angulos correctos";
+let hp8 = "avanzar en zigzag asia adelante y atras para crear un cordon uniforme y prolijo ";
+
+console.log (hp1 , hp2, hp3, hp4, hp5, hp6, hp7, hp8)
